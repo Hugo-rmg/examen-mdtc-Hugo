@@ -1,0 +1,5 @@
+.no-decoration a{
+    text-decoration: none;
+    text-decoration: underline;
+    color: white;
+}
